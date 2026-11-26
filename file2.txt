@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this 2nd file to be committed
+
+hi i am a student at datamites
+>>>>>>> b1
